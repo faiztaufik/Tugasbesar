@@ -1,0 +1,520 @@
+Question 1
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa fungsi dari tag <fieldset> dalam HTML?
+Select one:
+a. Mengelompokkan elemen form 
+b. Membuat tombol submit
+c. Membuat inputan dalam form
+d. Menentukan URL tujuan data dikirim
+Feedback
+The correct answer is: Mengelompokkan elemen form
+Question 2
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa fungsi dari tag <legend> dalam HTML?
+Select one:
+a. Menentukan judul fieldset 
+b. Menentukan tipe input
+c. Menentukan metode pengiriman data
+d. Menentukan nama input
+Feedback
+The correct answer is: Menentukan judul fieldset
+Question 3
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa fungsi dari tag <li> dalam HTML?
+Select one:
+a. Membuat item dalam daftar 
+b. Membuat daftar tidak berurutan
+c. Membuat daftar berurutan
+d. Membuat deskripsi daftar
+Feedback
+The correct answer is: Membuat item dalam daftar
+Question 4
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa yang dimaksud dengan <dl> dalam HTML?
+Select one:
+a. Membuat daftar definisi 
+b. Membuat daftar berurutan
+c. Membuat daftar deskripsi
+d. Membuat daftar tidak berurutan
+Feedback
+The correct answer is: Membuat daftar definisi
+Question 5
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa yang dimaksud dengan atribut "action" dalam tag <form>?
+Select one:
+a. Menentukan URL tujuan data dikirim 
+b. Menentukan tipe input
+c. Menentukan nama formulir
+d. Menentukan metode pengiriman data
+Feedback
+The correct answer is: Menentukan URL tujuan data dikirim
+Question 6
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa yang dimaksud dengan atribut alt dalam tag <img>?
+Select one:
+a. Menentukan ukuran gambar
+b. Menentukan teks alternatif jika gambar tidak dapat ditampilkan 
+c. Menentukan jenis gambar
+d. Menentukan sumber gambar
+Feedback
+The correct answer is: Menentukan teks alternatif jika gambar tidak dapat ditampilkan
+Question 7
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa yang dimaksud dengan atribut border dalam tag <table>?
+Select one:
+a. Menentukan jumlah baris
+b. Menentukan lebar border tabel 
+c. Menentukan jumlah kolom
+d. Menentukan warna border tabel
+Feedback
+The correct answer is: Menentukan lebar border tabel
+Question 8
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Apa yang dimaksud dengan tag <label> dalam HTML?
+Select one:
+a. Membuat label pada tombol submit
+b. Membuat label untuk elemen form 
+c. Membuat inputan text
+d. Membuat label pada title
+Feedback
+The correct answer is: Membuat label untuk elemen form
+Question 9
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Atribut apa yang digunakan untuk menentukan metode pengiriman data dalam formulir HTML?
+Select one:
+a. submit
+b. method 
+c. type
+d. action
+Feedback
+The correct answer is: method
+Question 10
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Atribut apa yang digunakan untuk menentukan tujuan URL dalam tag <a>?
+Select one:
+a. link
+b. href 
+c. src
+d. url
+Feedback
+The correct answer is: url
+Question 11
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Atribut HTML yang menentukan text alternatif untuk suatu gambar, jika gambar tidak dapat dilihat?
+Select one:
+a. title
+b. alter
+c. alt 
+d. img
+Feedback
+The correct answer is: img
+Question 12
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Dalam HTML, atribut manakah yang digunakan untuk menentukan bahwa kolom input harus diisi?
+Select one:
+a. text
+b. required 
+c. placeholder
+d. validated
+Feedback
+The correct answer is: required
+Question 13
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Elemen HTML untuk mendefinisikan tulisan penting adalah?
+Select one:
+a. <important>
+b. <strong> 
+c. <b>
+d. <i>
+Feedback
+The correct answer is: <strong>
+Question 14
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Elemen HTML yang tepat untuk mendefinisikan  heading terbesar adalah?
+Select one:
+a. <HEAD>
+b. <H6>
+c. <H1> 
+d. <Heading=Large>
+Feedback
+The correct answer is: <H1>
+Question 15
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Fungsi tag <br> dalam HTML adalah?
+Select one:
+a. Membuat hyperlink
+b. Membuat baris baru 
+c. Membuat paragraf baru
+d. Membuat ruang kosong
+Feedback
+The correct answer is: Membuat baris baru
+Question 16
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+HTML untuk membuat sebuah chekbox adalah?
+Select one:
+a. <input type = "checkbox"> 
+b. <checkbox>
+c. <select>
+d. <input type = "check">
+Feedback
+The correct answer is: <input type = "checkbox">
+Question 17
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Karakter yang digunakan untuk menyatakan tag penutup adalah?
+Select one:
+a. / 
+b. ^
+c. :
+d. <
+Feedback
+The correct answer is: /
+Question 18
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Kepanjangan dari HTML apa?
+Select one:
+a. Hyperlink dan Text Markup Language
+b. Hyper Text Markup Language 
+c. Home Tool Markup Language
+d. Hyperlinking Text Marking Language
+Feedback
+The correct answer is: Hyper Text Markup Language
+Question 19
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Kode HTM untuk memasukkan backgorund gambar adalah?
+Select one:
+a. <bgimage img="background.gif">
+b. <body style="background-image:url(background.gif)"> 
+c. <body bg="background.gif">
+d. <background img="background.gif">
+Feedback
+The correct answer is: <body style="background-image:url(background.gif)">
+Question 20
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Kode HTML yang tepat untuk memasukkan gambar adalah?
+Select one:
+a. <img src="image.gif" alt="MyImage"> 
+b. <img href="image.gif" alt="MyImage">
+c. <img alt="MyImage">image.gif</img>
+d. <image src="image.gif" alt="MyImage">
+Feedback
+The correct answer is: <img src="image.gif" alt="MyImage">
+Question 21
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Kode HTML yang tepat untuk membuat kolom inputan adalah?
+Select one:
+a. <input type="text"> 
+b. <textinput type="text">
+c. <textfield>
+d. <input type="textfield">
+Feedback
+The correct answer is: <input type="text">
+Question 22
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Konsep pewarisan diterapkan melalui mekanisme?
+Select one:
+a. Perluasan method
+b. Perluasan field
+c. Perluasan class 
+d. Perluasan access modifier
+Feedback
+The correct answer is: Perluasan class
+Question 23
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Potongan skrip HTML yang tepat untuk membuat hyperlink adalah?
+Select one:
+a. <a url="http://www.polnep.ac.id ">Polnep</a>
+b. <a name="http://www.polnep.ac.id">Polnep</a>
+c. <a href="http://www.polnep.ac.id">Polnep</a> 
+d. <a>http://www.polnep.ac.id </a>
+Feedback
+The correct answer is: <a href="http://www.polnep.ac.id">Polnep</a>
+Question 24
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Siapa yang membuat standar web?
+Select one:
+a. Mozilla
+b. Google
+c. Firefox
+d. The World Wide Web Consortium 
+Feedback
+The correct answer is: The World Wide Web Consortium
+Question 25
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Skrip HTML yang tepar untuk membuat pilihan list dropdown?
+Select one:
+a. <list>
+b. <select> 
+c. <list="dropdown">
+d. <input type="dropdown">
+Feedback
+The correct answer is: <select>
+Question 26
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Skrip HTML yang tepat untuk menambah warna background yaitu?
+Select one:
+a. <body style="background-color:yellow;"> 
+b. <body bg="yellow">
+c. <background>yellow</background>
+d. <body style="bg-color:yellow;">
+Feedback
+The correct answer is: <body style="background-color:yellow;">
+Question 27
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML apa yang digunakan untuk mendefinisikan paragraf?
+Select one:
+a. <paragraph>
+b. <paragrap>
+c. <p> 
+d. <parag>
+Feedback
+The correct answer is: <p>
+Question 28
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk membuat daftar tidak berurutan?
+Select one:
+a. <ul> 
+b. <dt>
+c. <ol>
+d. <li>
+Feedback
+The correct answer is: <ul>
+Question 29
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk membuat formulir
+Select one:
+a. <button>
+b. <form> 
+c. <input>
+d. <label>
+Feedback
+The correct answer is: <form>
+Question 30
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk membuat kotak teks multiline?
+Select one:
+a. <textarea> 
+b. <input type="text-multiline">
+c. <input type="text">
+d. <text-area>
+Feedback
+The correct answer is: <textarea>
+Question 31
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk membuat tombol reset dalam formulir adalah?
+Select one:
+a. <input type="reset"> 
+b. <button type="reset">
+c. <button reset="type">
+d. <input type="button-reset">
+Feedback
+The correct answer is: <input type="reset">
+Question 32
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk membuat tombol submit dalam formulir?
+Select one:
+a. <input type="button">
+b. <button type="submit">
+c. <input type="submit"> 
+d. <submit type="button">
+Feedback
+The correct answer is: <input type="submit">
+Question 33
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk menambahkan judul pada tabel?
+Select one:
+a. <title> 
+b. <input type="title">
+c. <thead>
+d. <title type="title">
+Feedback
+The correct answer is: <thead>
+Question 34
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML mana yang digunakan untuk menggabungkan dua atau lebih kolom dalam tabel
+Select one:
+a. span
+b. marge
+c. colspan 
+d. rowspan
+Feedback
+The correct answer is: colspan
+Question 35
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML yang membuat tautan adalaj?
+Select one:
+a. <url>
+b. <href>
+c. <link>
+d. <a> 
+Feedback
+The correct answer is: <a>
+Question 36
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag HTML yang menyatakan tulisan cetak tebal adalah?
+Select one:
+a. <i>
+b. <b> 
+c. <bold>
+d. <em>
+Feedback
+The correct answer is: <b>
+Question 37
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Tag yang digunakan untuk membuat garis horizontal adalah?
+Select one:
+a. <line>
+b. <hr> 
+c. <br>
+d. <border>
+Feedback
+The correct answer is: <hr>
+Question 38
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Untuk membuat list angka menggunakan?
+Select one:
+a. <number>
+b. <list>
+c. <ul>
+d. <ol> 
+Feedback
+The correct answer is: <ol>
+Question 39
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Untuk membuat text area menggunakan kode HTML?
+Select one:
+a. <textarea> 
+b. <button type="textarea">
+c. <input type="textarea">
+d. <input type="text">
+Feedback
+The correct answer is: <textarea>
+Question 40
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Yang mana dari pernyataan ini menyatakan  eleman <table>?
+Select one:
+a. <table><head><tfoot>
+b. <thead><body><tr>
+c. <table><tr><td> 
+d. <table><tr><tt>
+Feedback
+The correct answer is: <table><tr><td>
